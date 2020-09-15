@@ -50,6 +50,7 @@ export default {
 .home {
   display: flex;
   flex-direction: column;
+  font-family: arial,sans-serif;
 }
 .container {
   height: 81vh;
@@ -66,7 +67,7 @@ export default {
 .search_box {
   border-radius: 30px;
   height: 50px;
-  width: 45%;
+  width: 40%;
   border: 1px solid #dfe1e5;
   box-shadow: none;
   display: flex;
@@ -101,7 +102,6 @@ input:focus{
   border: 1px solid #f2f2f2;
   border-radius: 4px;
   color: #5F6368;
-  font-family: arial,sans-serif;
   font-size: 14px;
   margin: 11px 4px;
   padding: 0 16px;
