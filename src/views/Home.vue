@@ -145,4 +145,9 @@ input:focus{
 .footer {
   margin-top: auto;
 }
+@media screen and (max-width: 768px) {
+  .search_box {
+    width: 80%;
+  }
+}
 </style>

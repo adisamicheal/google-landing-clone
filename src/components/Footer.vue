@@ -5,7 +5,7 @@
       </div>
       <div class="links">
           <div>
-              <ul>
+              <ul class="ad">
                   <li><a href="">Advertising</a></li>
                   <li><a href="">Business</a></li>
                   <li><a href="">About</a></li>
@@ -60,5 +60,13 @@ ul>li>a:hover {
 }
 ul>li {
     padding-left: 20px;
+}
+@media screen and (max-width: 768px) {
+    .links {
+        flex-direction: column-reverse;
+    }
+    .ad {
+        margin-top: 30px;
+    }
 }
 </style>
