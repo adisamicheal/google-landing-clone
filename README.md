@@ -1,4 +1,5 @@
 # google-clone
+A simple clone of the popular (https://www.google.com/) landing page.
 
 ## Project setup
 ```
