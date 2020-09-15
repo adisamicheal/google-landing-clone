@@ -1,6 +1,8 @@
 # google-clone
 A simple clone of the popular (https://www.google.com/) landing page.
 
+Check it out on github pages at https://adisamicheal.github.io/google-landing-clone/
+
 ## Project setup
 ```
 npm install
